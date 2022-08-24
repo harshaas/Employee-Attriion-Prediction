@@ -12,6 +12,7 @@ seaborn = "*"
 imblearn = "*"
 matplotlib = "*"
 feature-engine = "*"
+lime = "*"
 
 [dev-packages]
 
